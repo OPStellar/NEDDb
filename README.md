@@ -1,4 +1,4 @@
-# New-Element Designs (Downloadable Objects) Database – "NEDDb"
+# New-Element Designs (Downloadable Objects) Database: "NEDDb"
 NEDDb is a standalone application designed to download all the RCT2 Objects in the New-Element Designs Database (NEDDb) by a webscraping process coded in Python, integrating BeautifulSoup and MechanicalSoup.
 The original code was released by DeathKontrol (https://www.nedesigns.com/topic/36639/download-all-nedesigns-rct2-objects-with-this-python-code/), and I took the liberty of getting all its shortcomings fixed (i.e. downloading broken links, bypassing objects that use special characters in the name such as 'CFEE&DNT' and 'WALL&ROO', and overwriting files of the same name) thanks to an assistant from the official Python Discord server.
 
