@@ -8,7 +8,7 @@ Unlike previous iterations of the code, this one is as easy and simple:
 1. Select a release package for your operating system
 2. Unpack the archived file
 3. Move the executable to the Objects folder where you normally put custom objects.
-4. • NOTE: Be sure that you don't have used folders named 'NEDDb' or 'Dupes' in that location, or else their content may be overwritten. Just saying.
+ • NOTE: Be sure that you don't have used folders named 'NEDDb' or 'Dupes' in that location, or else their content may be overwritten. Just saying.
 5. Launch the executable. A Terminal or Command-Line window will open. Follow the directions.
 
 Please note that the process can take several hours depending on how many pages of objects you choose to download.
